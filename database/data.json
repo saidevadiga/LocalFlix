@@ -1,0 +1,760 @@
+{
+  "movies": [
+    {
+      "id": 1,
+      "moviename": "Just Maath Maathalli",
+      "cast": [
+        "Kichcha Sudeep",
+        "Ramya",
+        "Rajesh Nataranga"
+      ],
+      "director": "Kichcha Sudeep",
+      "languages": [
+        "Kannada"
+      ],
+      "genre": "Romantic Drama",
+      "poster": "https://v3img.voot.com/resizeMedium,w_810,h_1080/v3Storage/assets/just-maath-maathalli-1674198577207.jpg",
+      "trailer": "https://www.youtube.com/embed/60UoPro8aUM",
+      "releasedate": "05-02-2010",
+      "rating": "7.8",
+      "synopsis": "Siddharth, a singer, embarks on a journey to Singapore to meet and confess his love for Tanu. He meets Adi, a scriptwriter, on his flight and starts narrating the story of his life."
+    },
+    {
+      "id": 2,
+      "moviename": "Vikranth Rona",
+      "cast": [
+        "Kichcha Sudeep",
+        "Neetha Ashok",
+        "Nirup Bhandari",
+        "Milana Nagraj",
+        "Jacqueline Fernandez"
+      ],
+      "director": "Anup Bhandari",
+      "languages": [
+        "Kannada",
+        "English",
+        "Telugu",
+        "Tamil",
+        "Hindi",
+        "Malayalam"
+      ],
+      "genre": "Suspense Period Crime Thriller",
+      "poster": "https://static-koimoi.akamaized.net/wp-content/new-galleries/2022/06/vikrant-rona-01.jpg",
+      "trailer": "https://www.youtube.com/embed/-0ldvhBlL-k",
+      "releasedate": "28-07-2022",
+      "rating": "7.1",
+      "synopsis": "Almost half a century ago, a remote village in the middle of a tropical rainforest starts witnessing a series of unexplainable events which they attribute to the supernatural. This coincides with the arrival of an eccentric police officer, Vikrant Rona. A mysterious game unfolds where everyone in the village is a potential victim and everyone is a suspect."
+    },
+    {
+      "id": 3,
+      "moviename": "Shhh!",
+      "cast": [
+        "Kumar Govind",
+        "Kashinath",
+        "Suresh Heblikar"
+      ],
+      "director": "Upendra",
+      "languages": [
+        "Kannada"
+      ],
+      "genre": "Horror Suspense Thriller",
+      "poster": "https://www.filmibeat.com/img/190x100x237/popcorn/movie_posters/shh-6711.jpg",
+      "trailer": "https://www.youtube.com/embed/uD3f40FuDck",
+      "releasedate": "01-12-1993",
+      "rating": "8.7",
+      "synopsis": "Shhh! is a 1993 Indian Kannada-language horror thriller film written and directed by Upendra.[1] It stars Kumar Govind, Kashinath and Suresh Heblikar, with N.B. Jayaprakash, Baby Rashmi, Megha and others in support roles. The film also stars Kashinath and introduced Kumar Govind as mainstream hero. It has a cameo by Upendra as a wannabe actor in police costume. This film went on to be a major commercial success. It created a new trend of thriller movies in Kannada cinema. It was also the debut movie of Sadhu Kokila as an actor and music director."
+    },
+    {
+      "id": 4,
+      "moviename": "Ondu Motteya Kathe",
+      "cast": [
+        "Raj B Shetty",
+        "Prakash Thuminad"
+      ],
+      "director": "Raj B Shetty",
+      "languages": [
+        "Kannada"
+      ],
+      "genre": "Comedy",
+      "poster": "https://www.filmibeat.com/img/popcorn/movie_posters/ondu-motteya-kathe-20170503123935-16033.jpg",
+      "trailer": "https://www.youtube.com/embed/UXv-9QdR3s8",
+      "releasedate": "07-07-2017",
+      "rating": "8",
+      "synopsis": "Janardhan, a Mangalore based 28-year-old Kannada lecturer starts looking for a bride after an astrologer tells him that if he doesn’t get married within one year, he will attain sanyaasa. In his quest for finding the ‘would be’ bride he faces many rejections and conflicts but in the process he connects with his inner self."
+    },
+    {
+      "id": 5,
+      "moviename": "Kantara-The Legend",
+      "cast": [
+        "Rishabh Shetty",
+        "Sapthami Gowda",
+        "Achyuth Kumar",
+        "Kishore",
+        "Pramod Shetty"
+      ],
+      "director": "Rishabh Shetty",
+      "languages": [
+        "Kannada",
+        "Tulu",
+        "Telugu",
+        "Tamil",
+        "Hindi",
+        "Malayalam"
+      ],
+      "genre": "Divine Action Drama",
+      "poster": "https://hombalefilms.com/wp-content/uploads/2021/08/KANTARA_ENG.jpg",
+      "trailer": "https://www.youtube.com/embed/8mrVmf239GU",
+      "releasedate": "30-09-2022",
+      "rating": "9.9",
+      "synopsis": "When greed paves the way for betrayal, scheming and murder, a young tribal reluctantly dons the traditions of his ancestors to seek justice."
+    },
+    {
+      "id": 6,
+      "moviename": "Dweepa",
+      "cast": [
+        "Soundarya",
+        "Avinash",
+        "Harish Raj"
+      ],
+      "director": "Girish Kasaravalli",
+      "languages": [
+        "Kannada"
+      ],
+      "genre": "Drama",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMDI5YzM4NzYtNTA2Zi00ZjQxLTlmYTEtMDU1ZDQ2MTYwMjM5XkEyXkFqcGdeQXVyMzQzMDc2MDk@._V1_FMjpg_UX1000_.jpg",
+      "trailer": "https://www.youtube.com/embed/eHupkAnxyJ8",
+      "releasedate": "27-12-2002",
+      "rating": "7.8",
+      "synopsis": "Nagi is the pillar of her small family that includes her husband and her rigid father-in-law. Faced with the possibility of losing her home due to the construction of a dam, Nagi proves her strength."
+    },
+    {
+      "id": 7,
+      "moviename": "Om",
+      "cast": [
+        "Dr. Shivarajkumar",
+        "Prema",
+        "Sadhu Kokila"
+      ],
+      "director": "Upendra",
+      "languages": [
+        "Kannada"
+      ],
+      "genre": "Action Crime",
+      "poster": "https://m.media-amazon.com/images/M/MV5BMGRjOWNkZWQtOTM5Yy00MDc5LTk4MmUtY2Y5N2NkZGU3M2MxXkEyXkFqcGdeQXVyMzQzMDc2MDk@._V1_.jpg",
+      "trailer": "https://www.youtube.com/embed/srX71BMXTAo",
+      "releasedate": "19-05-1995",
+      "rating": "9",
+      "synopsis": "Satya, the son of a priest, leads a straightforward life until he meets the girl of his dreams. His love for her drags him into the world of crime, jeopardising everything that he holds dear."
+    },
+    {
+      "id": 8,
+      "moviename": "Ondu Muttina Kathe",
+      "cast": [
+        "Dr. Rajkumar",
+        "Archana",
+        "Ramesh Bhat"
+      ],
+      "director": "Shankar Nag",
+      "languages": [
+        "Kannada"
+      ],
+      "genre": "Drama",
+      "poster": "https://m.media-amazon.com/images/I/51TRXADuOtL._SX342_.jpg",
+      "trailer": "https://www.youtube.com/embed/8UDo4kov1Ak",
+      "releasedate": "1987",
+      "rating": "8.5",
+      "synopsis": "In a tribal community in coastal Karnataka, a young man sets out to collect pearls for his lady-love and undergoes several hardships and betrayals during the process."
+    },
+    {
+      "id": 9,
+      "moviename": "Avatar: The Way of Water",
+      "cast": [
+        "Sam Worthington",
+        "Zoe Saldaña"
+      ],
+      "director": "James Cameron",
+      "languages": [
+        "English"
+      ],
+      "genre": "Sci-fi Adventure",
+      "poster": "https://image.tmdb.org/t/p/original/tIcbs6fN8WHSo6iFETz23l2N8tl.jpg",
+      "trailer": "https://www.youtube.com/embed/d9MyW72ELq0",
+      "releasedate": "16-12-2022",
+      "rating": "7.7",
+      "synopsis": "Jake Sully and Ney'tiri have formed a family and are doing everything to stay together. However, they must leave their home and explore the regions of Pandora. When an ancient threat resurfaces, Jake must fight a difficult war against the humans."
+    },
+    {
+      "id": 10,
+      "moviename": "Love Today",
+      "cast": [
+        "Pradeep Ranganathan",
+        "Ivana",
+        "Yogi Babu"
+      ],
+      "director": "Pradeep Ranganathan",
+      "languages": [
+        "Tamil"
+      ],
+      "genre": "Romantic Comedy Drama",
+      "poster": "https://assets.gadgets360cdn.com/pricee/assets/product/202210/Love-Today_1667220306.jpg",
+      "trailer": "https://www.youtube.com/embed/Xjw4ZbCIYS0",
+      "releasedate": "04-11-2022",
+      "rating": "8.1",
+      "synopsis": "While a couple is deeply in love, the girl's father challenges the two to switch their phones with each other to test their relationship. Chaos ensues as the lovers' secrets are unearthed."
+    },
+    {
+      "id": 11,
+      "moviename": "Kurigalu Saar Kurigalu",
+      "cast": [
+        "S Narayan",
+        "Ramesh Aravind",
+        "Mohan Shankar",
+        "Umashree",
+        "Ananth Nag",
+        "Doddanna",
+        "Komal",
+        "Bhavana"
+      ],
+      "director": "Rajendra Singh Babu",
+      "languages": [
+        "Kannada"
+      ],
+      "genre": "Comedy",
+      "poster": "https://chiloka.com/i/m/p/26/94-p.jpg",
+      "trailer": "https://www.youtube.com/embed/Zbbmk_O784U",
+      "releasedate": "23-03-2001",
+      "rating": "8.6",
+      "synopsis": "Kurigalu Saar Kurigalu is a 2001 Indian Kannada-language comedy film directed and written by Rajendra Singh Babu. The film stars Ramesh Aravind, S. Narayan, Mohan, Bhavana, Ruchita Prasad and Ananth Nag in the lead roles."
+    },
+    {
+      "id": 12,
+      "moviename": "Drishya",
+      "cast": [
+        "V Ravichandran",
+        "Navya Nair",
+        "Achyuth Kumar",
+        "Sadhu Kokila"
+      ],
+      "director": "P vasu",
+      "languages": [
+        "Kannada"
+      ],
+      "genre": "Suspense Thriller Drama",
+      "poster": "https://i.pinimg.com/originals/c2/43/11/c24311361b986cdf5c7221c85949b4f2.jpg",
+      "trailer": "https://www.youtube.com/embed/79U7caImDM0",
+      "releasedate": "20-06-2014",
+      "rating": "8.3",
+      "synopsis": "Rajendra is a family-oriented man and tries to keep them happy. However, when his family commits an accidental crime, he does everything to keep them out of harm's way."
+    },
+    {
+      "id": 13,
+      "moviename": "America America",
+      "cast": [
+        "Ramesh Aravind",
+        "Hema Prabhath",
+        "Akshay Anand",
+        "Dattanna"
+      ],
+      "director": "Nagathihalli Chandrashekar",
+      "languages": [
+        "Kannada"
+      ],
+      "genre": "Romantic Drama",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/f/f6/America_America_DVD_cover.jpg",
+      "trailer": "https://www.youtube.com/embed/LkA7cQwTBto",
+      "releasedate": "11-02-1997",
+      "rating": "8.4",
+      "synopsis": "The lives of childhood friends Surya, Shashank and Bhoomi encounter turbulence after Shashank and Bhoomi marry and settle down in America and Surya, who secretly loves Bhoomi, goes to meet them."
+    },
+    {
+      "id": 14,
+      "moviename": "99",
+      "cast": [
+        "Ganesh",
+        "Bhavana Menon",
+        "Ravishankar Gowda",
+        "Sameeksha"
+      ],
+      "director": "Preetham Gubbi",
+      "languages": [
+        "Kannada"
+      ],
+      "genre": "Romantic Drama",
+      "poster": "https://www.filmibeat.com/img/popcorn/movie_posters/99-kan-20190502152004-1016.jpg",
+      "trailer": "https://www.youtube.com/embed/b1dOqhPwGKg",
+      "releasedate": "01-05-2019",
+      "rating": "6.3",
+      "synopsis": "Classmates Ramachandra and Janaki meet after 20 years of graduating high school at a reunion. They start reminiscing their past days and talk about their present lives."
+    },
+    {
+      "id": 15,
+      "moviename": "Ulidavaru Kandanthe",
+      "cast": [
+        "Rakshith Shetty",
+        "Rishabh Shetty",
+        "Pramod Shetty",
+        "Sheetal Shetty",
+        "Tara Anuradha",
+        "Achyuth Kumar",
+        "Kishore",
+        "Yagna Shetty"
+      ],
+      "director": "Rakshith Shetty",
+      "languages": [
+        "Kannada"
+      ],
+      "genre": "Thriller Crime Drama",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/1/16/Ulidavaru_Kandanthe_poster.jpg",
+      "trailer": "https://www.youtube.com/embed/POJ_6EtGeMw",
+      "releasedate": "28-03-2014",
+      "rating": "8.4",
+      "synopsis": "Richi, a journalist, takes into account the versions of some of the people involved in a high-profile murder case with the help of which he unveils the truth."
+    },
+    {
+      "id": 16,
+      "moviename": "Rathnan Prapancha",
+      "cast": [
+        "Dhananjaya",
+        "Umashree",
+        "Pramod Panju",
+        "Achyuth Kumar",
+        "Ravishankar Gowda",
+        "Anu Prabhakar",
+        "Reba John",
+        "Vainidhi Jagdish"
+      ],
+      "director": "Rohith Padakki",
+      "languages": [
+        "Kannada"
+      ],
+      "genre": "Emotional Drama",
+      "poster": "https://m.media-amazon.com/images/M/MV5BNGM3MDFkNTQtNDcwYi00M2RlLTljNjMtYTA1ZWU3OTg4YjEyXkEyXkFqcGdeQXVyMTA1NzEzOTU1._V1_.jpg",
+      "trailer": "https://www.youtube.com/embed/IbDLu-Ro9ko",
+      "releasedate": "22-10-2021",
+      "rating": "8.4",
+      "synopsis": "Rathnakara is a middle-class man in his late twenties who is unhappy with his life choices. One day, he gets a startling call that turns his world upside down."
+    },
+    {
+      "id": 17,
+      "moviename": "S.H.P.S, Kasaragodu",
+      "cast": [
+        "Ananth Nag",
+        "Pramod Shetty",
+        "Prakash Thuminad",
+        "Saptha Pavoor",
+        "Rishabh Shetty",
+        "Ramesh Bhat"
+      ],
+      "director": "Rishabh Shetty",
+      "languages": [
+        "Kannada"
+      ],
+      "genre": "Drama",
+      "poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/sarkari-hi-pra-shale-kasaragodu,-koduge--ramanna-rai-et00081391-29-10-2020-05-44-48.jpg",
+      "trailer": "https://www.youtube.com/embed/oA-U1rR3pNc",
+      "releasedate": "24-10-2018",
+      "rating": "8.7",
+      "synopsis": "A group of children study in a Kannada-medium school in a village in Kerala. When greedy government officials try to shut down the school, the children band together to save their school."
+    },
+    {
+      "id": 18,
+      "moviename": "Kanasugara",
+      "cast": [
+        "V Ravichandran",
+        "Prema",
+        "Mandya Ramesh",
+        "Doddanna",
+        "Shrinath",
+        "ShashiKumar"
+      ],
+      "director": "Karan",
+      "languages": [
+        "Kannada"
+      ],
+      "genre": "Romantic Drama",
+      "poster": "https://chiloka.com/i/m/p/26/90-p.jpg",
+      "trailer": "https://www.youtube.com/embed/Fhba1PufjLM",
+      "releasedate": "03-06-2001",
+      "rating": "7",
+      "synopsis": "An illegitimate girl lives with her father and his family. However, the situation gets twisted when she develops feelings for her father's brother-in-law."
+    },
+    {
+      "id": 19,
+      "moviename": "Eega/Makkhi",
+      "cast": [
+        "Kichcha Sudeep",
+        "Nani",
+        "Samantha",
+        "Aditya Menon"
+      ],
+      "director": "S S Rajamouli",
+      "languages": [
+        "Telugu",
+        "Tamil",
+        "Hindi"
+      ],
+      "genre": "Action Fantacy",
+      "poster": "https://c.saavncdn.com/625/Eega-Kannada-2012-20220630093654-500x500.jpg",
+      "trailer": "https://www.youtube.com/embed/x-1ZoU1xB4I",
+      "releasedate": "06-07-2012",
+      "rating": "7.7",
+      "synopsis": "Nani loves Bindu but is killed by a jealous Sudeep, who lusts after Bindu. Nani is reincarnated as a fly and decides to avenge his death. He teams up with Bindu to make Sudeep's life a living hell."
+    },
+    {
+      "id": 20,
+      "moviename": "Mast Maja Maadi",
+      "cast": [
+        "Kichcha Sudeep",
+        "Komal",
+        "Vijay Raghavendra",
+        "Diganth",
+        "Jennifer Kotwal",
+        "Umashree"
+      ],
+      "director": "R Ananth Raju",
+      "languages": [
+        "Kannada"
+      ],
+      "genre": "Comedy Drama",
+      "poster": "https://images.ottplay.com/images/Mast_Maja_Maadi_2008_movie_photo_1.jpg",
+      "trailer": "https://www.youtube.com/embed/i02MsIsP2cs",
+      "releasedate": "12-12-2008",
+      "rating": "7.6",
+      "synopsis": "Four careless and fun-loving youngsters strike luck when they come to know about a secret location where a rich businessman has hidden INR 30 crores in cash."
+    },
+    {
+      "id": 21,
+      "moviename": "Avengers: Infinity War",
+      "cast": [
+        "Robert Downey",
+        "Josh Brolin",
+        "Chris Hemswort",
+        "Chris Evans",
+        "Scarlet Johansson",
+        "Tom Holland"
+      ],
+      "director": "Anthony Russo, Joe Russo",
+      "languages": [
+        "English"
+      ],
+      "genre": "Action Adventure",
+      "poster": "https://m.media-amazon.com/images/S/pv-target-images/da304fdb0473951af66e371fcd60f956896514678ec31d751178cabe8dd96777.jpg",
+      "trailer": "https://www.youtube.com/embed/6ZfuNTqbHE8",
+      "releasedate": "27-04-2018",
+      "rating": "8.4",
+      "synopsis": "The Avengers must stop Thanos, an intergalactic warlord, from getting his hands on all the infinity stones. However, Thanos is prepared to go to any lengths to carry out his insane plan."
+    },
+    {
+      "id": 22,
+      "moviename": "Nammora Mandara Huve",
+      "cast": [
+        "Dr. Shivarajkumar",
+        "Ramesh Aravind",
+        "Prema",
+        "Ramesh Bhat"
+      ],
+      "director": "Sunil Kumar Desai",
+      "languages": [
+        "Kannada"
+      ],
+      "genre": "Romantic Drama",
+      "poster": "https://c.saavncdn.com/519/Nammoora-Mandara-Hoove-Kannada-2014-20220602141136-500x500.jpg",
+      "trailer": "https://www.youtube.com/embed/nZ3dYzfYrvE",
+      "releasedate": "05-08-1996",
+      "rating": "7.9",
+      "synopsis": "Manoj, a film director, goes to a village to meet his friend Praveen. He falls head over heels in love with a girl, but his dreams shatter when he learns that she is Praveen's lover."
+    },
+    {
+      "id": 23,
+      "moviename": "777 Charlie",
+      "cast": [
+        "Rakshith Shetty",
+        "Sangeetha Sringeri",
+        "Raj B Shetty"
+      ],
+      "director": "Kiranraj K",
+      "languages": [
+        "Kannada",
+        "Telugu",
+        "Hindi",
+        "Tamil",
+        "Malayalam"
+      ],
+      "genre": "Adventure Emotional Drama",
+      "poster": "https://images-na.ssl-images-amazon.com/images/S/pv-target-images/82f8c5dcaeee975c05ce6acf3fecc82a06a865f4155bafda3ad5fe570ddfffa4._RI_V_TTW_.jpg",
+      "trailer": "https://www.youtube.com/embed/REqFOV2A7sI",
+      "releasedate": "10-07-2022",
+      "rating": "8.8",
+      "synopsis": "Dharma, a hopeless man, leads his life in ruins until an abused pup named Charlie walks in and changes it completely for good."
+    },
+    {
+      "id": 24,
+      "moviename": "Hondisi Bareyiri",
+      "cast": [
+        "Praveen Tej",
+        "Naveen Shankar",
+        "Aishani Shetty",
+        "Shri Mahadev",
+        "Archana Jois",
+        "Bhavana Rao"
+      ],
+      "director": "Ramenahalli Jagannatha",
+      "languages": [
+        "Kannada"
+      ],
+      "genre": "Romantic Drama",
+      "poster": "https://assets-in.bmscdn.com/iedb/movies/images/mobile/thumbnail/xlarge/hondisi-bareyiri-et00350710-1674460291.jpg",
+      "trailer": "https://www.youtube.com/embed/awI6elU5dCs",
+      "releasedate": "10-03-2023",
+      "rating": "7.8",
+      "synopsis": "A story of a bunch of college friends who reunite after many years. It focuses on their college life, leading to the responsibilities of adulthood and their struggle to find solace amidst their complex relationships."
+    },
+    {
+      "id": 25,
+      "moviename": "Hudugaru",
+      "cast": [
+        "Dr. Puneeth RajKumar",
+        "Yogish",
+        "Srinagara Kitty",
+        "Radhika Pandith",
+        "Rangayana Raghu",
+        "Avinash",
+        "Sadhu Kokila",
+        "Darling Krishna"
+      ],
+      "director": "K Madesha",
+      "languages": [
+        "Kannada"
+      ],
+      "genre": "Action Drama",
+      "poster": "https://c.saavncdn.com/111/Hudugru-Kannada-2011-500x500.jpg",
+      "trailer": "https://www.youtube.com/embed/-qcdGkTUVBs",
+      "releasedate": "05-05-2011",
+      "rating": "7.8",
+      "synopsis": "Prabhu, Chandru and Siddesh aspire to have a government job and try to lead a simple lifestyle. But their lives change dramatically when they attempt to unite two lovers."
+    },
+    {
+      "id": 26,
+      "moviename": "G G V V",
+      "cast": [
+        "Rishabh Shetty",
+        "Raj B Shetty",
+        "Prakash Thuminad",
+        "Gopal Deshapande",
+        "Deepak Rai"
+      ],
+      "director": "Raj B Shetty",
+      "languages": [
+        "Kannada"
+      ],
+      "genre": "Crime Drama",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/5/56/Garuda_Gamana_Vrishabha_Vahana.jpg",
+      "trailer": "https://www.youtube.com/embed/BnuDHJcSd0Q",
+      "releasedate": "19-11-2021",
+      "rating": "8.3",
+      "synopsis": "Childhood friends Shiva and Hari grow up to become two of the most feared gangsters in the coastal city of Mangaluru. However, their friendship is put to the test by greed and politics."
+    },
+    {
+      "id": 27,
+      "moviename": "Nishkarsha",
+      "cast": [
+        "Dr. Vishnuvardhan",
+        "BC Patil",
+        "Ananth Nag",
+        "Prakash Raj",
+        "Sumana Nagaraj",
+        "Ramesh Bhat",
+        "Avinash"
+      ],
+      "director": "Sunil Kumar Desai",
+      "languages": [
+        "Kannada"
+      ],
+      "genre": "Thriller Drama",
+      "poster": "https://static.toiimg.com/thumb/msid-71201783,width-219,height-317,imgsize-26146/71201783.jpg",
+      "trailer": "https://www.youtube.com/embed/7suvvB8B9lk",
+      "releasedate": "20-09-1993",
+      "rating": "8.2",
+      "synopsis": "A daylight bank robbery alarms the police in Bangalore. The robber holds the bank staff and customers hostage as the police attempt to rescue the innocent and knock down the culprit."
+    },
+    {
+      "moviename": "RRR",
+      "cast": [
+        "Ramcharan",
+        "Jr. NTR",
+        "Alia Bhatt",
+        "Ajay Devgan"
+      ],
+      "director": "SS Rajamouli",
+      "languages": [
+        "Hindi",
+        "Kannada",
+        "Malayalam",
+        "Tamil",
+        "Telugu"
+      ],
+      "genre": "Action Drama",
+      "poster": "https://assets-in.bmscdn.com/iedb/movies/images/extra/vertical_logo/mobile/thumbnail/xxlarge/rrr-et00094579-12-05-2022-02-26-04.jpg",
+      "trailer": "https://www.youtube.com/embed/5LmFuDB28UE",
+      "releasedate": "2022-03-24",
+      "rating": "7.8",
+      "synopsis": "A fearless revolutionary and an officer in the British force, who once shared a deep bond, decide to join forces and chart out an inspirational path of freedom against the despotic rulers.",
+      "id": 28
+    },
+    {
+      "moviename": "Kannadiga",
+      "cast": [
+        "V Ravichandran",
+        "Achyuth Kumar",
+        "Pavana Gowda",
+        "Balaji Manohar"
+      ],
+      "director": "Giriraj",
+      "languages": [
+        "Kannada"
+      ],
+      "genre": "History Period Drama",
+      "poster": "https://akamaividz2.zee5.com/image/upload/w_504,h_756,c_scale,f_webp,q_auto:eco/resources/0-0-1z557409/portrait/1920x770e5c10aacec8845fc93827bccbda9e8cf.jpg",
+      "trailer": "https://www.youtube.com/embed/9IPnYwcChYo",
+      "releasedate": "2021-11-17",
+      "rating": "7.7",
+      "synopsis": "A semanticist goes to great lengths to preserve the lost Kannada literature works from the Britishers. However, an unforeseen incident puts the preserved work, as well as his reputation, at stake.",
+      "id": 29
+    },
+    {
+      "moviename": "Yajamana",
+      "cast": [
+        "Dr. Vishnuvardhan",
+        "Prema",
+        "Shashi Kumar",
+        "Abhijeeth",
+        "Ramesh Bhatt",
+        "Avinash",
+        "Pavitra Lokesh",
+        "Tennis Krishna"
+      ],
+      "director": "Radha Bharathi, Sheshadri",
+      "languages": [
+        "Kannada"
+      ],
+      "genre": "Family Drama",
+      "poster": "https://m.media-amazon.com/images/M/MV5BOTZkYzZmZGQtODhkYy00YWQzLWFmZTUtZjUxM2E5MDYwNTE2XkEyXkFqcGdeQXVyNjQ1MDcxNzM@._V1_.jpg",
+      "trailer": "https://www.youtube.com/embed/jZ8ZWCDjR5c",
+      "releasedate": "2000-12-01",
+      "rating": "8.3",
+      "synopsis": "Shankar sacrifices his own interests and refuses to marry in order to support and educate his younger brothers. However, his life changes when a girl falls in love with him.",
+      "id": 30
+    },
+    {
+      "moviename": "Avengers: Endgame",
+      "cast": [
+        "Robert Downey",
+        "Josh Brolin ",
+        "Chris HemswoChris Evans ",
+        "Scarlet Johansson",
+        "Tom Holland"
+      ],
+      "director": "Anthony Russo, Joe Russo",
+      "languages": [
+        "English"
+      ],
+      "genre": "Action Sci-fi Adventure",
+      "poster": "https://m.media-amazon.com/images/I/81+Nup8-8NL._SL1500_.jpg",
+      "trailer": "https://www.youtube.com/embed/TcMBFSGVi1c",
+      "releasedate": "2019-04-26",
+      "rating": "8.4",
+      "synopsis": "After Thanos, an intergalactic warlord, disintegrates half of the universe, the Avengers must reunite and assemble again to reinvigorate their trounced allies and restore balance.\n",
+      "id": 31
+    },
+    {
+      "moviename": "Mugulu Nage",
+      "cast": [
+        "Ganesh",
+        "Ashika Ranganath",
+        "Amulya",
+        "Achuth Kumar",
+        "Nikitha Narayan",
+        "Apoorva Arora"
+      ],
+      "director": "Yogaraj Bhat",
+      "languages": [
+        "Kannada"
+      ],
+      "genre": "Romace Comedy Drama",
+      "poster": "https://images.jdmagicbox.com/comp/jd_social/news/2018dec10/image-441190-0130b779rw.jpg",
+      "trailer": "https://www.youtube.com/embed/nZGNaxKXBX4",
+      "releasedate": "2017-09-01",
+      "rating": "7.3",
+      "synopsis": "A man, who is unable to cry since birth, faces heartbreak after he falls in love with different women and things do not work out with them.",
+      "id": 32
+    },
+    {
+      "moviename": "Drama",
+      "cast": [
+        "Yash",
+        "Radhika Pandith",
+        "Ninasam Sathish",
+        "Sindhu Lokanath",
+        "Ambaressh",
+        "Achyuth Kumar",
+        "Suchendra Prasad",
+        "Malavika Avinash"
+      ],
+      "director": "Yogaraj Bhat",
+      "languages": [
+        "Kannada"
+      ],
+      "genre": "Comedy Drama",
+      "poster": "https://m.media-amazon.com/images/I/61IEp9xrHqL.jpg",
+      "trailer": "https://www.youtube.com/embed/3pQuOJSxC1o",
+      "releasedate": "2012-11-23",
+      "rating": "6.8",
+      "synopsis": "Venkata, a young student, falls in love with his classmate, Nandini. One day, she kisses Venkata and in return asks him to take revenge on the principal for slapping her in front of everyone.",
+      "id": 33
+    },
+    {
+      "moviename": "Jackie",
+      "cast": [
+        "Dr. Puneeth Rajkumar",
+        "Bhavana Menon",
+        "Rangayana Raghu",
+        "Shobharaj",
+        "Harshika Poonacha",
+        "Ravi Kale"
+      ],
+      "director": "Duniya Suri",
+      "languages": [
+        "Kannada"
+      ],
+      "genre": "Action Drama",
+      "poster": "https://m.media-amazon.com/images/I/91Aaca52ndL._SY741_.jpg",
+      "trailer": "https://www.youtube.com/embed/dAP-lAtpesg",
+      "releasedate": "2010-10-14",
+      "rating": "7.4",
+      "synopsis": "Jackie is a man who lives by his wits and reaches out to people to solve their problems. But he lands himself in trouble when he is suspected of helping a priest's daughter elope with her lover.",
+      "id": 34
+    },
+    {
+      "moviename": "My Autograph",
+      "cast": [
+        "Kichcha Sudeep",
+        "Meena",
+        "Srinivas Murthy",
+        "Sridevika",
+        "Deepa Bhaskar",
+        "Yathiraj"
+      ],
+      "director": "Kichcha Sudeep",
+      "languages": [
+        "Kannada"
+      ],
+      "genre": "Romance Drama",
+      "poster": "https://upload.wikimedia.org/wikipedia/en/6/67/My_Autograph_Movie.jpg",
+      "trailer": "https://www.youtube.com/embed/_dDINPWYxYY",
+      "releasedate": "2006-02-17",
+      "rating": "7.8",
+      "synopsis": "Shankar, an advertising professional, travels to his village to invite his friends to his wedding. During his journey, he reflects back on the years he spent in his village.",
+      "id": 35
+    }
+  ]
+}
